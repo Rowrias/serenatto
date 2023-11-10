@@ -48,5 +48,5 @@ input[type="checkbox"]:focus {
 }
 
 .botao-padrao:hover {
-  background-color: var(--marron-escuro);
+  background-color: var(--marrom-escuro);
 }
