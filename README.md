@@ -2,7 +2,7 @@
 
 Curso de bootstrap 5 desenvolvido com a Alura.
 
-[https://](https://rowrias.github.io/serenatto/)https://rowrias.github.io/serenatto/
+https://rowrias.github.io/serenatto/
 
 <img width="1403" alt="image" src="https://github.com/Rowrias/serenatto/assets/113151785/21e2a5a6-ff33-49f6-bcb0-d9402330af90">
 
